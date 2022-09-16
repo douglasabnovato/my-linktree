@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#SocialTree" src="./.github/template-2.jpg">
+  <img alt="versão 1 do projeto" title="#SocialTree" src="./.github/tela-1.jpg">
 </p>  
 
 ### 💻 Sobre o desafio
@@ -39,11 +39,11 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, shor
 
 #### 🚀 Requisitos para o desafio 
 
-- [ ] Adicione uma imagem de perfil
-- [ ] Adicione uma lista de links que pode ser usada para enviar o usuário para outros sites
-- [ ] Opcional: Adicione ícones com links para outras redes sociais
-- [ ] **Dica:** para centralizar o conteúdo você pode adicionar um elemento (div) com uma largura fixa e depois adicionar `margin: 0 auto`
-- [ ] Você poderá usar como modelo o layout do Figma disponibilizado acima.
+- [x] Adicione uma imagem de perfil
+- [x] Adicione uma lista de links que pode ser usada para enviar o usuário para outros sites
+- [x] Opcional: Adicione ícones com links para outras redes sociais
+- [x] **Dica:** para centralizar o conteúdo você pode adicionar um elemento (div) com uma largura fixa e depois adicionar `margin: 0 auto`
+- [x] Você poderá usar como modelo o layout do Figma disponibilizado acima.
 
 ### 🎨 Style Guide
 
@@ -76,23 +76,23 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 #### 📅 Tarefas
 
 - [x] Organizando os detalhes do projeto no readme.md
-- [ ] Uma branch main e uma developer
+- [x] Uma branch main e uma developer
 - [x] Favicon
-- [ ] [Learn Responsive Design](https://web.dev/learn/design/)
-- [ ] [Learn CSS](https://web.dev/learn/css/)
+- [x] [Learn Responsive Design](https://web.dev/learn/design/)
+- [x] [Learn CSS](https://web.dev/learn/css/)
 
 #### 📅 Telas
 
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#Portfolio" src="./.github/template-1.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#Portfolio" src="./.github/tela-1.jpg" width="400px">
 </p>  
 
 - Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#Portfolio" src="./.github/template-2.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#Portfolio" src="./.github/tela-2.jpg" height="400px">
 </p>  
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
