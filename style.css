@@ -51,7 +51,7 @@ body {
     width: 150px;
     height: 150px;
     padding: 3.7px;
-    border: var(--primary-color) solid 4px;
+    border: var(--purple) solid 2.5px;
 }
 
 #projetos .container h1 {
