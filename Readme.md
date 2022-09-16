@@ -76,7 +76,7 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 #### 📅 Tarefas
 
 - [x] Organizando os detalhes do projeto no readme.md
-- [ ] Uma branch main e uma developer
+- [x] Uma branch main e uma developer
 - [x] Favicon
 - [ ] [Learn Responsive Design](https://web.dev/learn/design/)
 - [ ] [Learn CSS](https://web.dev/learn/css/)
