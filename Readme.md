@@ -11,8 +11,8 @@
 Organizamos as branches para serem guardadas as versões do projeto
 - main: em produção
 - developer: em desenvolvimento das tarefas
-- v-dev-finances: primeira versão do projeto
-- v-dev-sensedata: segunda versão do projeto
+- v-dev-social-tree: primeira versão do projeto
+- v-dev-links-card: segunda versão do projeto
 
 ### 💻 Sobre o desafio
 
