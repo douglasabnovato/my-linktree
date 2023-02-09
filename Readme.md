@@ -6,6 +6,14 @@
   <img alt="versão 1 do projeto" title="#SocialTree" src="./.github/tela-1.jpg">
 </p>  
 
+## 💻🔖 Organização do projeto 
+
+Organizamos as branches para serem guardadas as versões do projeto
+- main: em produção
+- developer: em desenvolvimento das tarefas
+- v-dev-finances: primeira versão do projeto
+- v-dev-sensedata: segunda versão do projeto
+
 ### 💻 Sobre o desafio
 
 Neste desafio você deve criar uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
